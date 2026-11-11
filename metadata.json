@@ -1,0 +1,6 @@
+{
+  "name": "Nomadika",
+  "description": "Kenya local travel and adventure trip planner to discover destinations, build custom itineraries, estimate budgets, plan group trips, and connect with local tour operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
